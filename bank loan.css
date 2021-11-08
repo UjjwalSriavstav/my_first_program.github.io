@@ -1,0 +1,31 @@
+.x{
+    text-decoration: underline;
+     text-align: center ;
+}
+.y{
+    text-align: center;
+}
+.c{
+    text-align: right;
+}
+input{
+    margin-top: 10px;
+}
+label{
+    margin-top: 10px;
+}
+select{
+    margin-top: 10px;
+}
+.a{
+    
+    text-decoration: underline;
+    text-align: right;
+}
+.b{
+    text-align: center;
+    text-decoration: underline;
+}
+body{
+    background-color: darkturquoise;
+}
